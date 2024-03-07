@@ -18,7 +18,9 @@
   <img align="center" alt="Postgres" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 <div style="display: inline_block;margin-top: 2rem"><br>
-  <img align="right" alt="GIF" height="150" width="200" src="https://github.com/higormcarnauba/higormcarnauba/blob/main/1RO.gif?raw=true">
+  <a href="https://github.com/higormcarnauba">
+    <img align="right" alt="GIF" height="150" width="200" src="https://github.com/higormcarnauba/higormcarnauba/blob/main/1RO.gif?raw=true">
+  </a>
 </div>
 
 ##
