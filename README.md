@@ -1,5 +1,49 @@
-### Hi there 👋
-[![higormcarnauba's GitHub stats](https://github-readme-stats.vercel.app/api?username=higormcarnauba&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+### Olá, meu nome é Higor
+
+##
+
+<div>
+  <a href="https://github.com/higormcarnauba">
+    <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api?username=higormcarnauba&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api/top-langs/?username=higormcarnauba&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Postgres" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+<div style="display: inline_block;margin-top: 2rem"><br>
+  <img align="right" alt="GIF" height="200" width="280" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF_v2.gif?raw=true">
+</div>
+
+##
+ 
+<div> 
+ <a href = "https://www.linkedin.com/in/c%C3%ADcero-carna%C3%BAba-b673b41a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "higormc2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://wa.me/5588988626355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+ 
+</div>
 
 <!--
 **higormcarnauba/higormcarnauba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
