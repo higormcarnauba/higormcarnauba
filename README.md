@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/higormcarnauba">
-    <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api?username=higormcarnauba&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api/top-langs/?username=higormcarnauba&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api?username=higormcarnauba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api/top-langs/?username=higormcarnauba&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="Postgres" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 <div style="display: inline_block;margin-top: 2rem"><br>
-  <img align="right" alt="GIF" height="200" width="280" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF_v2.gif?raw=true">
+  <img align="right" alt="GIF" height="200" width="280" src="https://github.com/higormcarnauba/higormcarnauba/blob/main/1RO.gif?raw=true">
 </div>
 
 ##
