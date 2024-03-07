@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/higormcarnauba">
-    <img height="350em" width="500em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api?username=higormcarnauba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="350em" width="500em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api/top-langs/?username=higormcarnauba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="390em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api?username=higormcarnauba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="390em" src="https://github-readme-stats-higormcarnaubas-projects.vercel.app/api/top-langs/?username=higormcarnauba&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
