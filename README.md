@@ -1,4 +1,5 @@
 ### 👾 Olá, meu nome é Cícero Higor 
+Sou um desenvolvedor Python Iniciante, tenho 20 anos. Atualmente estou cursando Engenharia de Software na UFC.
 
 ##
 
