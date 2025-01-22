@@ -7,7 +7,7 @@
 ###### Tenho 20 anos, sou um desenvolvedor iniciante, estou entusiasmado com minha área.
 
   - :mortar_board: Graduando em Engenharia de Software na UFC
-  - :books: Facilidade com lógica de programação
+  - :books: Amo lógica de programação
   - 🫀 Fascinado por Desenvolver!
 
 ### Contato:
