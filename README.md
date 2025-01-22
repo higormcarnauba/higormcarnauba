@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
 
-###### Sou um desenvolvedor Python Iniciante, e tenho 20 anos.
+###### Tenho 20 anos, sou um desenvolvedor iniciante, estou entusiasmado com minha área.
 
   - :mortar_board: Estou me Graduando em Engenharia de Software na UFC
   - :books: Amo lógica de Programação
-  - 🫀 Fascinado pela minha area!
+  - 🫀 Fascinado por Programação!
 
 ### Contato:
 
