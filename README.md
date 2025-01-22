@@ -4,18 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
 
-###### I am passionate about technologies, I like to see the beauty of codes and understand how it works.
-###### Sou um desenvolvedor Python Iniciante, tenho 20 anos. E estou fascinado pela minha area!
+###### Sou um desenvolvedor Python Iniciante, e tenho 20 anos.
 
-  - :mortar_board: Graduando em Engenharia de Software - UFC.
-  - :robot: 
-  - :blue_book: Eu amo lógica de Programação
-  - :heart_eyes: Desenvolver em python tem sido fascinante
-  - 🫀
+  - :mortar_board: Estou me Graduando em Engenharia de Software na UFC
+  - :books: Amo lógica de Programação
+  - 🫀 Fascinado pela minha area!
 
 ### Contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/cícero-carnaúba-b673b41a1/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988626355) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:higormc2015@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/cícero-carnaúba-b673b41a1/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988626355) [![Hotmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higormc2015@gmail.com)
 <!--
 
 
