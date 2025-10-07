@@ -2,7 +2,7 @@
 ### Olá 👋👋, meu nome é Cícero Higor 👾
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
+<img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
 
 ###### Tenho 21 anos, sou um futuro Engenheiro de Software.
 
