@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
 
-###### Tenho 20 anos, sou um desenvolvedor iniciante, estou entusiasmado com minha área.
+###### Tenho 21 anos, sou um futuro Engenheiro de Software.
 
   - :mortar_board: Graduando em Engenharia de Software na UFC
-  - :books: Amo lógica de programação
-  - 🫀 Fascinado por Desenvolver!
+  - :books: Lógica, Desenvolvimento, Dados e Documentação
+  - 🫀 Python e Java
 
 ### Contato:
 
