@@ -3,14 +3,16 @@
 
 
 <div style="float: right; margin-top: -40px; margin-right: 20px;">
-  <img 
+  <img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
+
+  <!-- <img 
     src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" 
     width="350px" 
     alt="Computador Cícero Higor"
     display= "inline-block"
     flex="1"
     padding-right= "20px"
->
+> -->
 </div>
 
 ###### Tenho 21 anos, sou um futuro Engenheiro de Software.
