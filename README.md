@@ -1,25 +1,21 @@
-
-### Olá 👋👋, meu nome é Cícero Higor 👾
-
-
-<div style="float: right; margin-top: -40px; margin-right: 20px;">
-  <img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
-
-  <!-- <img 
-    src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" 
-    width="350px" 
-    alt="Computador Cícero Higor"
-    display= "inline-block"
-    flex="1"
-    padding-right= "20px"
-> -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex-grow: 1; margin-right: 20px;">
+    <h3>Olá 👋, meu nome é Cícero Higor</h3>
+    <h6>Tenho 21 anos, sou um futuro Engenheiro de Software.</h6>
+    <ul>
+      <li>🎓 Graduando em Engenharia de Software na UFC</li>
+      <li>📚 Lógica, Desenvolvimento, Dados e Documentação</li>
+      <li>❤️ Python e Java</li>
+    </ul>
+  </div>
+  
+  <div style="flex-shrink: 0;">
+    <img 
+      src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png?raw=true" 
+      width="400" 
+      alt="Computador Cícero Higor">
+  </div>
 </div>
-
-###### Tenho 21 anos, sou um futuro Engenheiro de Software.
-
-  - :mortar_board: Graduando em Engenharia de Software na UFC
-  - :books: Lógica, Desenvolvimento, Dados e Documentação
-  - 🫀 Python e Java
 
 ### Contato:
 
