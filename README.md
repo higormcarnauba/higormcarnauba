@@ -6,7 +6,9 @@
   <img 
     src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" 
     width="350px" 
-    alt="Computador Cícero Higor">
+    alt="Computador Cícero Higor"
+    display= "inline-block"
+>
 </div>
 
 ###### Tenho 21 anos, sou um futuro Engenheiro de Software.
