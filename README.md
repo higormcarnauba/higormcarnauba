@@ -2,8 +2,8 @@
 ### Olá 👋👋, meu nome é Cícero Higor 👾
 
 
-<div style="float: right; margin-top: -40px; margin-right: 20px;">
-  <img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" margin-top="-60px" align="right" alt="Computador Cícero Higor">
+<div style="float: right; margin-top: -80px; margin-right: 20px;">
+  <img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
 
   <!-- <img 
     src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" 
