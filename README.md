@@ -8,6 +8,8 @@
     width="350px" 
     alt="Computador Cícero Higor"
     display= "inline-block"
+    flex="1"
+    padding-right= "20px"
 >
 </div>
 
